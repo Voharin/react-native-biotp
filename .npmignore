@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+.expo/
+
+# Source (we publish built files from dist/)
+src/
+tsconfig.json
+
+# Demo
+example/
+
+# IDE/OS
+.idea/
+.vscode/
+.DS_Store
+*.swp
+*.log
+
+# Misc
+.git/
+.gitignore
