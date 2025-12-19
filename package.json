@@ -1,7 +1,7 @@
 {
   "name": "react-native-biotp",
-  "version": "1.0.0",
-  "description": "simple but usefull react native otp",
+  "version": "1.1.0",
+  "description": "A powerful and customizable OTP input component for React Native with timer, error handling, animations, and accessibility support",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
